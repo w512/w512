@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello there. My name is Nick and this is my personal site. I'm a software engineer with extensive experience of over 20 years:
+- **JavaScript** since the 2009 year
+- **Python** since the 2006 year
+- **Swift** since the 2014 year
+
+Sometimes I also use other languages: **Rust, Go, Lisp, Assembly**, and others.
+
+
 <!--
 **w512/w512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
