@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello there. My name is Nick and I'm a software engineer with extensive experience of over 20 years:
+My name is Nick and I'm a software engineer with extensive experience of over 20 years:
 - **JavaScript** since the 2009 year
 - **Python** since the 2006 year
 - **Swift** since the 2014 year
