@@ -1,24 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-My name is Nick and I'm a software engineer with extensive experience of over 20 years:
-- **JavaScript** since the 2009 year
-- **Python** since the 2006 year
-- **Swift** since the 2014 year
+Software architect with 20+ years in production systems — from Assembly to Rust. Techstars Boston '15 alum, 12+ shipped apps. These days I ship real products with AI and show what actually works.
 
-Sometimes I also use other languages: **Rust, Go, Lisp, Assembly**, and others.
+## What I'm building
 
+- **[Texodus](https://github.com/w512/Texodus)** — a modern, fast, small, and beautiful Markdown viewer and editor (Tauri 2 / Rust) · [site](https://blokhin.us/texodus/)
+- **[Kivarion](https://github.com/w512/Kivarion)** — a desktop password manager for the KeePass format (Tauri 2 / Rust) · [site](https://blokhin.us/kivarion/)
+- **[Prompt-Vault](https://github.com/w512/Prompt-Vault)** — coding prompts and detailed project specifications for benchmarking and testing LLMs
+- **[AI-Vault](https://github.com/w512/AI-Vault)** — a curated vault of practical AI engineering resources: LLM apps, agentic coding, RAG, local models
+- **[Local-OCR](https://github.com/w512/Local-OCR)** — a local, privacy-focused converter of PDFs and images to structured Markdown
 
-<!--
-**w512/w512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages over the years: **Python** (since 2006), **JavaScript** (since 2009), **Swift** (since 2014), **Rust** for desktop and systems work — plus Go, Lisp, and Assembly when the job calls for it.
 
-Here are some ideas to get you started:
+## Latest notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+More at [blokhin.us/notes](https://blokhin.us/notes/) · [RSS](https://blokhin.us/rss.xml)
+
+## Where else to find me
+
+- 🌐 [blokhin.us](https://blokhin.us)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nblokhin/)

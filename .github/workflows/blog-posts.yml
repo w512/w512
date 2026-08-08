@@ -1,0 +1,25 @@
+# Pulls the latest notes from blokhin.us into README.md between the
+# BLOG-POST-LIST markers. Runs daily; can also be triggered by hand from
+# the Actions tab. Commits only when the list actually changed.
+name: Latest notes
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://blokhin.us/rss.xml'
+          max_post_count: 5
+          date_format: 'mmm d, yyyy'
+          template: '- [$title]($url) — $date $newline'
+          commit_message: 'Update the latest notes from blokhin.us'
