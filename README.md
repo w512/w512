@@ -4,8 +4,8 @@ Software architect with 20+ years in production systems — from Assembly to Rus
 
 ## What I'm building
 
-- **[Texodus](https://github.com/w512/Texodus)** — a modern, fast, small, and beautiful Markdown viewer and editor (Tauri 2 / Rust) · [site](https://blokhin.us/texodus/)
-- **[Kivarion](https://github.com/w512/Kivarion)** — a desktop password manager for the KeePass format (Tauri 2 / Rust) · [site](https://blokhin.us/kivarion/)
+- **[Texodus](https://github.com/w512/Texodus)** — a modern, fast, small, and beautiful Markdown viewer and editor · [site](https://blokhin.us/texodus/)
+- **[Kivarion](https://github.com/w512/Kivarion)** — a desktop password manager for the KeePass format · [site](https://blokhin.us/kivarion/)
 - **[Prompt-Vault](https://github.com/w512/Prompt-Vault)** — coding prompts and detailed project specifications for benchmarking and testing LLMs
 - **[AI-Vault](https://github.com/w512/AI-Vault)** — a curated vault of practical AI engineering resources: LLM apps, agentic coding, RAG, local models
 - **[Local-OCR](https://github.com/w512/Local-OCR)** — a local, privacy-focused converter of PDFs and images to structured Markdown
