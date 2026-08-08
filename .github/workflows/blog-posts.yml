@@ -21,5 +21,9 @@ jobs:
           feed_list: 'https://blokhin.us/rss.xml'
           max_post_count: 5
           date_format: 'mmm d, yyyy'
-          template: '- [$title]($url) — $date $newline'
+          template: '- [$title]($url) — $date$newline'
+          # Keep the START/END markers on their own lines — without this the
+          # action glues the first list item to the START comment and breaks
+          # the Markdown list.
+          tag_post_pre_newline: true
           commit_message: 'Update the latest notes from blokhin.us'
